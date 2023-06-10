@@ -6,7 +6,7 @@ const Header = () => {
         <img src="./trollface.jfif" 
         className='header-img'
         alt="troll face" />
-        <h2 className='header-title'>Header</h2>
+        <h2 className='header-title'>Unleash Your Inner Comedian</h2>
         <h4 className='header-meme'>React Meme-Generator</h4>
     </header>
   )
